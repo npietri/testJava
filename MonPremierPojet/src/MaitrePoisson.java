@@ -8,6 +8,7 @@ public class MaitrePoisson {
 		
     monPoisson.plonger(2);
     monPoisson.plonger(3);
+    monPoisson.plonger(204);
 		
     monPoisson.dormir();
     
